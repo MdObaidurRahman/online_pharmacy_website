@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Doctor",
+    "img": "https://media.gettyimages.com/photos/background-of-a-large-group-of-assorted-capsules-pills-and-blisters-picture-id1153740646?k=20&m=1153740646&s=612x612&w=0&h=xXq4tVp1c6aQLEYZdPekQZPMrsSx4SwQZp2fslRkupY=",
+    "price": 1000,
+    "description": " a person who is skilled in the science of  a person who is trained and licensed to treat sick and injured people I think you should see a doctor."
+  },
+  {
+    "id": 2,
+    "name": "Lab test",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1mGG1hclvgXRiBc3m8Z0JHCcmkLnkf9VcQ&usqp=CAU",
+    "price": 1500,
+    "description": "A medical procedure that involves testing a sample of blood, urine, or other substance from the body. Laboratory tests can help determine a diagnosis, plan treatment, check to see if treatment is working, or monitor the disease over time"
+  },
+  {
+    "id": 3,
+    "name": "Govt approved private lab",
+    "img": "https://i1.wp.com/networkustad.com/wp-content/uploads/2021/05/medicine.jpg",
+    "price": 800,
+    "description": "The Health Services Division under the Ministry of Health has approved 10 private diagnostic labs and hospitals in Dhaka to provide health certificates on Covid-19 to international passengers, in a bid to make the process easier for travellers."
+  },
+  {
+    "id": 4,
+    "name": "Poor fasilities",
+    "img": "https://images.outlookindia.com/public/uploads/articles/2020/4/1/rajasthans-free-medicine-scheme-secures-top-rank.jpg",
+    "price": 500,
+    "description": "Specifically, in this paper inadequate health care services is defined as a situation where a person requires more assistance than is currently being received for services where assistance is needed"
+  },
+  {
+    "id": 5,
+    "name": "EMERGENCY UNIT",
+    "img": "https://ca-times.brightspotcdn.com/dims4/default/71676ab/2147483647/strip/true/crop/2047x1151+0+0/resize/840x472!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F20%2Fc9%2Fef91eb441f6f05c60faa11299e9b%2Fla-1541534792-4zw8fai7m9-snap-image",
+    "price": 2000,
+    "description": "The law says that it is an emergency if you reasonably believe that it is an emergency. It is an emergency if waiting to get care could be dangerous to your life or a part of your body. A bad injury or a sudden serious illness can be an emergency. Severe pain and active labor are also emergencies."
+  },
+  {
+    "id": 6,
+    "name": "OPERATION THEATER",
+    "img": "https://adelindia.com/wp-content/uploads/2021/07/adel-57.jpg",
+    "price": 10000,
+    "description": "Early dedicated rooms for surgical procedures were called OPERATING THEATRES because they literally were theatres, built in a gallery style for public observation. ... This gallery resembled like the theatre and the purpose being operation, gave rise to the term correctly as OPERATING THEATRE."
+  }
+]
