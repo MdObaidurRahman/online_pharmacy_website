@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-MdObaidurRahman).
 
 this is an online base pharmacy.
 it will be benefited for all.
