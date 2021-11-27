@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-MdObaidurRahman).
 
 this is an online base pharmacy.
-it will be benefited for all.
-when we can fases any difficulties we can fill it to online via this website.
-we can order and booked it from it.
+Clients need to login to see service details..
+Clients can book their service via the website which service they need to demand.
+Clients can see the previous customer review to select these pharmacy how they helped their client.
 it is best for it purpose.
